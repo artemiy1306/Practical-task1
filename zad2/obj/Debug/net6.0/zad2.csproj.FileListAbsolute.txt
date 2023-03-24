@@ -1,0 +1,15 @@
+E:\study\Знакомство с языками программирования\Practical task1\zad2\bin\Debug\net6.0\zad2.exe
+E:\study\Знакомство с языками программирования\Practical task1\zad2\bin\Debug\net6.0\zad2.deps.json
+E:\study\Знакомство с языками программирования\Practical task1\zad2\bin\Debug\net6.0\zad2.runtimeconfig.json
+E:\study\Знакомство с языками программирования\Practical task1\zad2\bin\Debug\net6.0\zad2.dll
+E:\study\Знакомство с языками программирования\Practical task1\zad2\bin\Debug\net6.0\zad2.pdb
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\zad2.csproj.AssemblyReference.cache
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\zad2.AssemblyInfoInputs.cache
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\zad2.AssemblyInfo.cs
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\zad2.csproj.CoreCompileInputs.cache
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\zad2.dll
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\refint\zad2.dll
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\zad2.pdb
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\zad2.genruntimeconfig.cache
+E:\study\Знакомство с языками программирования\Practical task1\zad2\obj\Debug\net6.0\ref\zad2.dll
